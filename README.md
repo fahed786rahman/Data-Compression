@@ -1,5 +1,6 @@
 # Data-Compression
-This is a 70 page report on data compression and the methods on handling missing data.In many aspects of research, missing data is frequently common. What do
+This is a 70 page report on data compression and the methods on handling missing data.
+In many aspects of research, missing data is frequently common. What do
 we mean by missing data, well missing data is as intuitive as it sounds. Any
 data that was intended to be observed but hasn’t is classified as missing data.
 Researchers have relied on a variety of ad-hoc methods for decades in an effort
